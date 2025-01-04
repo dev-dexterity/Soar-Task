@@ -12,7 +12,7 @@ A modern, responsive financial dashboard application built with Next.js and Tail
 - Form Handling: React Hook Form
 - UI Components: shadcn/ui
 
-Installation
+## Installation
 
 1. Clone the repository:
 bash
@@ -35,6 +35,10 @@ npm run dev
 
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
+## Assumptions made:
+-I was just trying to make a credit card page component but did not finish it because of the deadline.
+-I have not added unnecessary images. Added just the main ones
+
 
 ## Browser Support
 
