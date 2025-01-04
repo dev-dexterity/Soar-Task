@@ -46,7 +46,7 @@ Tested and optimized for:
 
 ## Deployment
 
-The application is deployed on Vercel. You can view the live demo at: [Live Demo Link]
+The application is deployed on Vercel. You can view the live demo at: https://soar-task-three.vercel.app/dashboard
 
 ### Deployment Steps
 1. Push your code to GitHub
