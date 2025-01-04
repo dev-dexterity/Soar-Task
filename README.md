@@ -35,7 +35,9 @@ npm run dev
 
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
-## Assumptions made:
+
+
+## Assumptions made
 -I was just trying to make a credit card page component but did not finish it because of the deadline.
 -I have not added unnecessary images. Added just the main ones
 
