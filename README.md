@@ -15,27 +15,25 @@ A modern, responsive financial dashboard application built with Next.js and Tail
 ## Installation
 
 1. Clone the repository:
-bash
+2. 
 git clone https:[//github.com/your-username/financial-dashboard.git](https://github.com/dev-dexterity/Soar-Task.git)
 
-
-2. Navigate to the project directory:
-bash
+3. Navigate to the project directory:
+```
 cd financial-dashboard
-
+```
 
 3. Install dependencies:
 ```
-bash
 npm install
 ```
 
 5. Start the development server:
-bash
+```
 npm run dev
+```
 
-
-6. Open [http://localhost:3000](http://localhost:3000) in your browser
+7. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 
 ## Assumptions made
