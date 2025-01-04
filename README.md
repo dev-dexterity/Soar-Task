@@ -16,7 +16,7 @@ Installation
 
 1. Clone the repository:
 bash
-git clone https://github.com/your-username/financial-dashboard.git
+git clone https:[//github.com/your-username/financial-dashboard.git](https://github.com/dev-dexterity/Soar-Task.git)
 
 
 2. Navigate to the project directory:
@@ -44,12 +44,6 @@ Tested and optimized for:
 - Safari (latest)
 - Edge (latest)
 
-## Deployment
+## Live Demo
 
-The application is deployed on Vercel. You can view the live demo at: https://soar-task-three.vercel.app/dashboard
-
-### Deployment Steps
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Configure build settings if necessary
-4. Deploy
+The application is deployed on Vercel. You can view the live demo at: [https://soar-task-three.vercel.app/dashboard](https://soar-task-three.vercel.app/dashboard)
